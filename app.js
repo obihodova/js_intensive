@@ -39,3 +39,9 @@ function calculate() {
 }
 
 console.log(calculate());
+
+
+// 3) https://learngitbranching.js.org/
+
+let basics = "https://drive.google.com/file/d/1fw4ImudnSwVNxjzzeKJhYQaThna2l59d/view?usp=sharing"; 
+let remote = "https://drive.google.com/drive/my-drive"; 
